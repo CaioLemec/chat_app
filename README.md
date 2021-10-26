@@ -44,7 +44,6 @@ In this application it was possible to deepen knowledge in front-end development
 ## :technologist: Technologies
 
 - [React](https://pt-br.reactjs.org/)
-- [Sass](https://sass-lang.com/)
 - [Chat Engine](https://chatengine.io/)
 
 <br>
