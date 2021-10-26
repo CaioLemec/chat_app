@@ -36,7 +36,6 @@ In this application it was possible to deepen knowledge in front-end development
 <p align="center">
 <img src="./public/test.gif" width="auto"/>
 </p>
-<br>
 <hr>
 
 ## :technologist: Technologies
@@ -44,7 +43,6 @@ In this application it was possible to deepen knowledge in front-end development
 - [React](https://pt-br.reactjs.org/)
 - [Chat Engine](https://chatengine.io/)
 
-<br>
 <hr>
 
 ## :octocat: Environment
