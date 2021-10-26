@@ -12,8 +12,6 @@
 <p align="center">
  <img alt="webapp mockup" src="./public/mockup.png" width="auto">
 </p>
-
-<br>
 <hr>
 
 ## :desktop_computer: Project
@@ -29,8 +27,6 @@ In this application it was possible to deepen knowledge in front-end development
 - ChatEngine lib,
 - Axios,
 - much more ...
-
-<br>
 
 ## :nail_care: Layout
 <p align="center">
