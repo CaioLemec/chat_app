@@ -18,9 +18,7 @@
 
 ## :desktop_computer: Project
 
-<strong>Chat App</strong> it is a simple web tool for exchanging messages..
-
-Chat in real time! 🤭
+<strong>Chat App</strong> it is a simple web tool for chatting in real time! 🤭
 
 In this application it was possible to deepen knowledge in front-end development, reviewing concepts like: 
 
